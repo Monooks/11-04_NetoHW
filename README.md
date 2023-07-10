@@ -95,6 +95,13 @@ $ rabbitmqadmin get queue='hello'
 #### ОТВЕТ:
 
 ![Скриншот-4](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.png)
+![Скриншот-4.1](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.1.png)
+![Скриншот-4.2](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.2.png)
+![Скриншот-4.3](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.3.png)
+![Скриншот-4.4](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.4.png)
+![Скриншот-4.5](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.5.png)
+![Скриншот-4.6](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.6.png)
+![Скриншот-4.7](https://github.com/Monooks/11-04_NetoHW/blob/main/img/11.04_4.7.png)
 
 ---
 
